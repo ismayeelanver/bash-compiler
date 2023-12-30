@@ -1,8 +1,8 @@
 # ⚡️ requirements
- - 1) nvim
- - 2) linux
- - 3) bash
- - 4) some bash experience
+  1) nvim
+  2) linux
+  3) bash
+  4) some bash experience
 
 # ✨ Manual
  - first execute the "init.sh" file
